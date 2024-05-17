@@ -44,7 +44,9 @@ Esta aplicacion consume una API de ExchangeRate, usa una libreria Gson de Google
 - Ejecuta el archivo `Principal.java`
 ## Creador.
 
-Este proyecto fue creado por [EnriqueStyle]("https://github.com/EnriqueStyle") 
+Este proyecto fue creado por EnriqueStyle
+
+[![GitHub](https://github.com/EnriqueStyle/alura-Conversor-De-Monedas/blob/main/Imagenes/github.png)](https://github.com/EnriqueStyle/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquestyle/)
 
